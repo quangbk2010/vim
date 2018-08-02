@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/quang/UsedCar/aData'
+let g:netrw_dirhist_2='/home/quang/UsedCar/aResult/model_weight_recent_cars/beta_5'
